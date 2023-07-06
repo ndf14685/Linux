@@ -1,5 +1,10 @@
 # Linux
 
+
+which python
+
+find <location> <options>
+
 #-type f	Hereby, we define the type of the searched object. In this case, 'f' stands for 'file'.
 
 #-name *.conf	With '-name', we indicate the name of the file we are looking for. The asterisk (*) stands for 'all' files with the '.conf' extension.
