@@ -16,3 +16,6 @@
 
 
 #find / -type f -name *.conf -user root -size +20k -newermt 2020-03-03 -exec ls -al {} \; 2>/dev/null
+
+
+Otro Comando
